@@ -1,0 +1,33 @@
+# BEGIN ANSIBLE MANAGED BLOCK
+[hosts]
+ip-10-100-0-183.ap-southeast-2.compute.internal
+ip-10-100-0-7.ap-southeast-2.compute.internal
+ip-10-100-1-222.ap-southeast-2.compute.internal
+ip-10-100-1-63.ap-southeast-2.compute.internal
+ip-10-100-1-172.ap-southeast-2.compute.internal
+ip-10-100-1-143.ap-southeast-2.compute.internal
+ip-10-100-1-37.ap-southeast-2.compute.internal
+ip-10-100-1-140.ap-southeast-2.compute.internal
+ip-10-100-1-114.ap-southeast-2.compute.internal
+ip-10-100-1-116.ap-southeast-2.compute.internal
+ip-10-100-1-29.ap-southeast-2.compute.internal
+ip-10-100-1-193.ap-southeast-2.compute.internal
+ip-10-100-0-165.ap-southeast-2.compute.internal
+ip-10-100-2-175.ap-southeast-2.compute.internal
+ip-10-100-2-215.ap-southeast-2.compute.internal
+ip-10-100-2-96.ap-southeast-2.compute.internal
+ip-10-100-2-153.ap-southeast-2.compute.internal
+ip-10-100-2-115.ap-southeast-2.compute.internal
+ip-10-100-2-140.ap-southeast-2.compute.internal
+ip-10-100-2-207.ap-southeast-2.compute.internal
+ip-10-100-2-177.ap-southeast-2.compute.internal
+ip-10-100-2-67.ap-southeast-2.compute.internal
+ip-10-100-2-100.ap-southeast-2.compute.internal
+ip-10-100-0-175.ap-southeast-2.compute.internal
+ip-10-100-0-50.ap-southeast-2.compute.internal
+ip-10-100-0-51.ap-southeast-2.compute.internal
+ip-10-100-0-34.ap-southeast-2.compute.internal
+ip-10-100-0-53.ap-southeast-2.compute.internal
+ip-10-100-0-144.ap-southeast-2.compute.internal
+ip-10-100-0-99.ap-southeast-2.compute.internal
+# END ANSIBLE MANAGED BLOCK
